@@ -1,9 +1,14 @@
 {
-  "posts": [
-    { "id": 1, "title": "json-server", "author": "typicode" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 }
-  ],
-  "profile": { "name": "typicode" }
+  "todoList": [
+    {
+      "id": "0",
+      "text": "공부하기",
+      "checked": false
+    },
+    {
+      "id": "1",
+      "text": "영화보기",
+      "checked": false
+    }
+  ]
 }
